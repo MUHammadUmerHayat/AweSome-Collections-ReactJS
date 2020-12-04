@@ -1,5 +1,4 @@
-### **Awesome React** [![Awesome](
-A collection of awesome things regarding the React ecosystem.
+ ## A collection of awesome things regarding the React ecosystem.
 
 - [React](#react)
   - [React General Resources](#react-general-resources)
